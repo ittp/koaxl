@@ -1,0 +1,20 @@
+{
+  "name": "koaxl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "formidable": "^1.2.2",
+    "formidable-upload-koa": "^1.0.1",
+    "fs-extra": "^9.0.1",
+    "koa": "^2.13.0",
+    "koa-router-form-parser": "^0.1.2",
+    "xlsx": "^0.16.8"
+  }
+}
